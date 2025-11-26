@@ -2,8 +2,8 @@
 
 ### 💼 Qui je suis ?
 
-Développeuse full-stack avec 5+ ans d'expérience, j'aime construire des applications utiles, propres et efficaces.  
-J'ai travaillé sur des technologies web, des workflows automatisés et des projets orientés data/IA.  
+Développeuse full-stack, j'aime construire des applications utiles, propres et efficaces.  
+Avec plus de 5 ans d’expérience en développement et en gestion de projet, j’ai travaillé sur des technologies web, des workflows automatisés et des projets liés à la data et à l’IA.
 Ce que j'aime dans mon métier : simplifier, améliorer, rendre les choses plus intelligentes.  
 
 ---
@@ -33,12 +33,15 @@ Je privilégie :
 ### 💻 Tech Stack
 
 - Langages : JavaScript, TypeScript, PHP, HTML5, CSS3, SQL, NoSQL
-- Frameworks & Librairies : Node.js, Express.js, React, Tailwind, Bootstrap, Shadcn/ui
+- Frameworks & Librairies : Node.js, Express.js, React, Tailwind, Bootstrap, Shadcn/ui, jQuery
 - Base de données : MySQL, MongoDB
 - Outils & Environnement : API REST, Redis, Elasticsearch, Postman, Git, Linux, CLI, Cloud
-- Notions : Java, Python, Angular
+- Notions : Java, Angular
 
 ---
 
 ### 📍 Me trouver
-LinkedIn : [https://linkedin.com/in/thuthao-ng](https://linkedin.com/in/thuthao-ng)
+
+Si mon profil retient votre attention, je reste disponible pour échanger. N’hésitez pas à me contacter !  
+
+👉 LinkedIn : [https://linkedin.com/in/thuthao-ng](https://linkedin.com/in/thuthao-ng)
