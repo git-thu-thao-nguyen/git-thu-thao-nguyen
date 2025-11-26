@@ -2,9 +2,9 @@
 
 ### 💼 Qui je suis ?
 
-Développeuse full-stack, j'aime construire des applications utiles, propres et efficaces.  
-Avec plus de 5 ans d’expérience en développement et en gestion de projet, j’ai travaillé sur des technologies web, des workflows automatisés et des projets liés à la data et à l’IA.
-Ce que j'aime dans mon métier : simplifier, améliorer, rendre les choses plus intelligentes.  
+Développeuse full-stack passionnée par la création d’applications utiles et performantes. 
+Avec 5 ans d’expérience en développement et en gestion de projet, j’ai travaillé sur des technologies web, des workflows automatisés et des projets liés à la data et à l’IA.
+Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
 
 ---
 
@@ -14,7 +14,7 @@ Ce que j'aime dans mon métier : simplifier, améliorer, rendre les choses plus 
 - Système d'analyse automatisée assistée par IA réduisant 60% du travail manuel  
 - Monitoring international pour Schneider Electric et TTI (Milwaukee, Ryobi), avec génération automatique de rapports
 - Collecté et exploité des données via des robots de scraping sur plusieurs milliers de sites e-commerce.
-- Réalisation de projets personnels pour explorer de nouvelles idées et technologies
+- Réalisation de projets personnels pour explorer de nouvelles technologies
 - ...
 
 ---
