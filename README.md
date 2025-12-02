@@ -2,9 +2,9 @@
 
 ### 💼 Qui je suis ?
 
-Développeuse full-stack passionnée par la création d’applications utiles et performantes. 
-Avec 5 ans d’expérience en développement et en gestion de projet, j’ai travaillé sur des technologies web, des workflows automatisés et des projets liés à la data et à l’IA.
-Ce parcours m'a permis d'aborder les projets avec une double vision : technique et organisationnelle.
+Développeuse full-stack avec 5 ans d'expérience hybride entre développement web et gestion de projet, complétée par une aventure entrepreneuriale.  
+Ce parcours m'a permis d'avoir une approche technique, organisationnelle, et me pousse à contribuer à la réussite du produit, pas seulement à son implémentation.  
+Compétences technique en conception d'applications front/back, intégration d'API, automatisation de workflows et traitement de données dans un environnement SaaS exigeant.  
 
 ---
 
