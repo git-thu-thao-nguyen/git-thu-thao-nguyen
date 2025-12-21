@@ -36,7 +36,6 @@ Je privilégie :
 - Frameworks & Librairies : Node.js, Express.js, React, Redux, Tailwind, Bootstrap, Shadcn/ui, jQuery
 - Base de données : MongoDB, MySQL, Redis, Elasticsearch
 - Outils & Environnement : Postman, Git, Linux, CLI, Cloud, IA
-- Notions : Java, Angular
 
 ---
 
