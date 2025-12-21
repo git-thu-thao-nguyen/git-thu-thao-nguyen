@@ -2,7 +2,7 @@
 
 ### 💼 Qui je suis ?
 
-Développeuse full-stack avec 5 ans d'expérience hybride entre développement web et gestion de projet, complétée par une aventure entrepreneuriale.  
+Développeuse full-stack avec un profil hybride en développement web et gestion de projet, renforcé par une expérience entrepreneuriale.  
 Ce parcours m'a permis d'avoir une approche technique, organisationnelle, et me pousse à contribuer à la réussite du produit, pas seulement à son implémentation.  
 Compétences technique en conception d'applications front/back, intégration d'API, automatisation de workflows et traitement de données dans un environnement SaaS exigeant.  
 
@@ -32,10 +32,10 @@ Je privilégie :
 
 ### 💻 Tech Stack
 
-- Langages : JavaScript, TypeScript, PHP, HTML5, CSS3, SQL, NoSQL
-- Frameworks & Librairies : Node.js, Express.js, React, Tailwind, Bootstrap, Shadcn/ui, jQuery
-- Base de données : MySQL, MongoDB
-- Outils & Environnement : API REST, Redis, Elasticsearch, Postman, Git, Linux, CLI, Cloud
+- Langages : JavaScript, TypeScript, PHP, HTML5, CSS3
+- Frameworks & Librairies : Node.js, Express.js, React, Redux, Tailwind, Bootstrap, Shadcn/ui, jQuery
+- Base de données : MongoDB, MySQL, Redis, Elasticsearch
+- Outils & Environnement : Postman, Git, Linux, CLI, Cloud, IA
 - Notions : Java, Angular
 
 ---
