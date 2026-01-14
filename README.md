@@ -33,9 +33,9 @@ Je privilégie :
 ### 💻 Tech Stack
 
 - Langages : JavaScript, TypeScript, PHP, HTML5, CSS3
-- Frameworks & Librairies : Node.js, Express.js, React, Redux, Tailwind, Bootstrap, Shadcn/ui, jQuery
+- Frameworks & Librairies : Node.js, Express.js, React, Redux, Tailwind, Bootstrap, Shadcn/ui, jQuery, Jest
 - Base de données : MongoDB, MySQL, Redis, Elasticsearch
-- Outils & Environnement : Postman, Git, Linux, CLI, Cloud, IA
+- Outils & Environnement : Postman, Git, Linux, CLI, Cloud, Docker
 
 ---
 
