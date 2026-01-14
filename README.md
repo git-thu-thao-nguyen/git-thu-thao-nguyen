@@ -1,10 +1,4 @@
-## Salut, moi c'est Thu Thao 👋
-
-### 💼 Qui je suis ?
-
-Développeuse full-stack avec un profil hybride en développement web et gestion de projet, renforcé par une expérience entrepreneuriale.  
-Ce parcours m'a permis d'avoir une approche technique, organisationnelle, et me pousse à contribuer à la réussite du produit, pas seulement à son implémentation.  
-Compétences technique en conception d'applications front/back, intégration d'API, automatisation de workflows et traitement de données dans un environnement SaaS exigeant.  
+## Hello, moi c'est Thu Thao 👋
 
 ---
 
